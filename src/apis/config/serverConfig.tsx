@@ -1,1 +1,1 @@
-export let server: string = "https://interesante-env.eba-jr26mzhu.us-east-1.elasticbeanstalk.com/api"
+export let server: string = "http://interesante-env.eba-jr26mzhu.us-east-1.elasticbeanstalk.com/api"
