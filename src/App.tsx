@@ -55,7 +55,7 @@ function App() {
 }
 
 const getCountryCode = () => {
-  return fetch("http://ip-api.com/json").then((res) => {
+  return fetch("https://ip-api.com/json").then((res) => {
     return res.json()
   }).then((result) => {
     localStorage.setItem("time", JSON.stringify(result))
