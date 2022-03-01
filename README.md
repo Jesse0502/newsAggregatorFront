@@ -1,12 +1,12 @@
 ## How to access the website and prevent steady loading
+url - https://main.d1rwxviwi26h5o.amplifyapp.com/
 
-# On Firefox
-![](images/firefox-enable-1.png)
-![](images/firefox-enable-2.png)
-![](images/firefox-enable-3.png)
-
-# On Chrome
+# Chrome
+Click on lock icon located at url bar > Site settings > scroll down to Insecure Content > Allow
 ![](images/chrome-enable-1.png)
 ![](images/chrome-enable-2.png)
+# Firefox
+Click on lock icon at the url bar > Connection Secure > Disable protection for now 
+![](images/firefox-enable-1.png)
+![](images/firefox-enable-2.png)
 
-url - https://main.d1rwxviwi26h5o.amplifyapp.com/
